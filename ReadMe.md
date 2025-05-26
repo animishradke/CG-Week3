@@ -85,12 +85,6 @@ You’re encouraged to experiment with the code, create your own examples, and t
 
 ---
 
-## Next Steps
-
-In **Week 4**, we will cover:
-- Recursion and Backtracking
-- Exception Handling in depth
-- File I/O and working with data streams
 
 Get ready for more complex logic and real-world Java applications!
 
